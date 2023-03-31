@@ -1,0 +1,8 @@
+- [chisel](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/chisel.md)
+- [iptables](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/iptables.md)
+- [lcx](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/lcx.md)
+- [msf](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/msf.md)
+- [netsh](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/netsh.md)
+- [ssf](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/ssf.md)
+- [SharpChisel](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/SharpChisel.md)
+- [Ligolo](https://github.com/xiaoy-sec/Pentest_Note/blob/master/wiki/内网和域/端口映射和转发/Ligolo.md)
