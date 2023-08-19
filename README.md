@@ -1,7 +1,6 @@
 * 公众号:关注安全技术
-* Author:小y
 * wiki:https://www.heresecurity.wiki/
-![image](https://github.com/xiaoy-sec/Pentest_Note/blob/master/img/wechat.png)
+
 # Pentest_Note
 	查找内容请配合wiki食用或使用CTRL+F搜索
 
